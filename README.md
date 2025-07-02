@@ -7,16 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React projects**
+- 🔭 I’m currently working on **AI ML Projects**
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Math of AI**
 
-- 👯 I’m looking to collaborate on **MERN-STACK projects**
+- 👯 I’m looking to collaborate on **ML projects**
 
-- 🤝 I’m looking for help with **Competitive Programming**
-
-- 💬 Ask me about **CPP,DSA,HTML,CSS,JS**
-
+- 💬 Ask me about **ML models and architectures**
+- 
 - 📫 How to reach me **srivathsan861@gmail.com**
 
 - ⚡ Fun fact **if you know ? DO : GOOGLE;**
