@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srivathsan</h1>
-<h3 align="center">A passionate FULL-STACK developer from India</h3>
+<h3 align="center">A passionate DATA SCIENTIST from India who has 3 years of experience in the world of AI / ML and FULL STACK</h3>
 
 <img alt="coding" width="100%" height="300px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
