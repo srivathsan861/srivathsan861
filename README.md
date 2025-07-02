@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **ML projects**
 
 - 💬 Ask me about **ML models and architectures**
-- 
+
 - 📫 How to reach me **srivathsan861@gmail.com**
 
 - ⚡ Fun fact **if you know ? DO : GOOGLE;**
